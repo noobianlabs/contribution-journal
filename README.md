@@ -13,6 +13,7 @@ Entries record real, checked opportunities and a practical next step. Research e
 
 ## Entries
 
+- [2026-11-13](entries/2026-11-13.md)
 - [2026-11-09](entries/2026-11-09.md)
 - [2026-11-08](entries/2026-11-08.md)
 - [2026-11-06](entries/2026-11-06.md)
